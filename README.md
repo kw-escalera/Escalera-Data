@@ -1,5 +1,7 @@
 # Escalera-Data
-Data Consolidation Initiative for Escalera Capital
+Data Consolidation Initiative for Escalera Capital.
+
+Snowflake Instance: https://cc63098.us-east-2.aws.snowflakecomputing.com
 
 Data Sources Include:
   - Crexi Leases (https://www.crexi.com/lease/properties)
